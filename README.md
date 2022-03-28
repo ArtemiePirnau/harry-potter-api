@@ -9,6 +9,6 @@ npm run dev
 First, run the development server with the command: 
 ```
 npm run dev
-#or
+# or
 yarn dev
 ```
