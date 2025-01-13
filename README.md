@@ -1,3 +1,8 @@
+## Harry Potter API
+That's a pet project
+
+A project where you can search for your favorite Harry Potter's character
+
 ## What i used
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -5,5 +10,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![image](https://github.com/user-attachments/assets/f35f9588-64ad-4f9e-8bba-fdce459609a9)
+
 
 <br/>
